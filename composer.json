@@ -1,0 +1,16 @@
+{
+    "name": "damijanc/php",
+    "require": {
+        "phpunit/phpunit": "^5.0",
+        "phpspec/phpspec": "2.3.*"
+    },
+    "authors": [
+        {
+            "name": "Damijan Cavar",
+            "email": "damijan.cavar@warpspeedventures.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"": "src/"}
+    }
+}
